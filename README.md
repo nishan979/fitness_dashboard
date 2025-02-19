@@ -1,17 +1,73 @@
-# fitness_dashboard
 
-A new Flutter project.
+---
 
-## Getting Started
+# 🏋️‍♂️ Fitness Dashboard UI – Flutter  
 
-This project is a starting point for a Flutter application.
+🚀 **A sleek, dark-themed fitness dashboard UI** designed in Flutter! This project provides a modern, data-driven user interface for tracking fitness stats like calories burned, steps taken, distance covered, and sleep duration.  
 
-A few resources to get you started if this is your first Flutter project:
+> **⚡ Just UI – No Backend Yet!**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# fitness_dashboard
+## 🎨 Preview  
+🔥 **Dark Mode Aesthetic** | 📊 **Visual Data Representation** | 🎯 **Minimal & Responsive Design**  
+
+![Dashboard Preview](./assets/screenshot.png)  
+
+---
+
+## ✨ Features  
+✅ **📌 Beautiful Dashboard Layout** – Displays key fitness stats at a glance.  
+✅ **📊 Interactive Graphs & Charts** – Visual trends for step tracking.  
+✅ **🎯 Circular Progress Indicators** – Quick fitness progress summary.  
+✅ **📅 Workout Schedule UI** – Plan and track exercise sessions.  
+✅ **🌙 Dark Mode Theme** – Modern and eye-friendly design.  
+
+---
+
+## 🛠️ Tech Stack  
+🔹 **Flutter** – Cross-platform framework  
+🔹 **Dart** – Programming language  
+🔹 **Provider / Riverpod** – (For state management, if used)  
+🔹 **Flutter Charts Package** – Data visualization  
+🔹 **Custom UI Components** – Designed with Flutter widgets  
+
+---
+
+## 🚀 Getting Started  
+
+1️⃣ **Clone this repository**  
+```sh
+git clone https://github.com/nishan979/fitness_dashboard
+cd fitness_dashboard
+```  
+
+2️⃣ **Install dependencies**  
+```sh
+flutter pub get
+```  
+
+3️⃣ **Run the app**  
+```sh
+flutter run
+```  
+
+---
+
+## 🎯 Future Enhancements  
+💡 **Connect with Firebase for real-time data**  
+💡 **Google Fit & Apple Health integration**  
+💡 **AI-powered fitness recommendations**  
+💡 **More animations & transitions**  
+
+---
+
+## 🤝 Contributing  
+Got ideas? Found a bug? **Fork, improve & submit a PR!** 🚀  
+
+---
+
+## 📜 License  
+📝 **MIT License** – Free to use, modify, and distribute!  
+
+---
